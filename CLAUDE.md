@@ -11,7 +11,8 @@ npm run start    # Start production server
 npm run lint     # Run ESLint
 ```
 
-There is no test suite configured yet.
+npm test            # Run tests
+npm run test:watch  # Run tests in watch mode
 
 ## Architecture
 
